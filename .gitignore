@@ -2,7 +2,7 @@
 a.txt
 
 #忽略aaa的文件夹
-/aaa/
+# /aaa/
 
 #忽略bbb的以下的文件
 bbb/
