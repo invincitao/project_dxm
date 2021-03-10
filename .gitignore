@@ -7,4 +7,4 @@ a.txt
 #忽略bbb的以下的文件
 bbb/
 
-.gitignore
+/.gitignore
