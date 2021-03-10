@@ -1,0 +1,8 @@
+#忽略a.txt
+a.txt
+
+#忽略aaa的文件夹
+/aaa/
+
+#忽略bbb的以下的文件
+bbb/
